@@ -8,6 +8,7 @@ Adds useful rule functions for ArkInventory for handling attunable items:
 ## Dependencies
 
 - ArkInventoryRules
+- SynastriaCoreLib
 
 ## Installation
 
