@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "SynastriaCoreLib",
+        "ArkInventoryRules",
+        "GetItemInfo",
+        "ArkInventory",
+        "GetContainerItemLink",
+        "GetContainerItemInfo",
+        "C_Container"
+    ]
+}
