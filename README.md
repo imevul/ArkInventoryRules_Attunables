@@ -8,8 +8,9 @@ Adds useful rule functions for ArkInventory for handling attunable items:
 ## Dependencies
 
 - ArkInventoryRules
-- SynastriaCoreLib
+- [SynastriaCoreLib](https://github.com/imevul/SynastriaCoreLib/releases)
 
 ## Installation
 
-Extract to Interface/AddOns and enable the addon in-game
+1. Download the [latest release](https://github.com/imevul/ArkInventoryRules_Attunables/releases)
+2. Extract to Interface/AddOns and enable the addon in-game
