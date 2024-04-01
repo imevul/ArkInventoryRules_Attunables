@@ -2,9 +2,10 @@
 ## Title: Ark Inventory [Rules] Attunables
 ## Notes: Attunables Rules
 ## Author: Imevul
-## Version: 1.0.1-Release
+## Version: 1.0.2-Release
 ## RequiredDeps: ArkInventoryRules
-## OptionalDeps: SynastriaCoreLib
+## OptionalDeps: SynastriaCoreLib-1.0
+## X-Embeds: SynastriaCoreLib-1.0
 ## X-Category: Imevul
 
 embeds.xml

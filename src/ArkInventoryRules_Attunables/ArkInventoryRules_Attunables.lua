@@ -1,6 +1,8 @@
 ﻿local rule = ArkInventoryRules:NewModule("ArkInventoryRules_Attunables")
 local debug = false
 
+local SynastriaCoreLib = LibStub('SynastriaCoreLib-1.0')
+
 local function strSplit(inputStr, sep)
 	if sep == nil then
 		sep = "%s"
