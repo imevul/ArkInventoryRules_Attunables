@@ -1,5 +1,7 @@
 # ArkInventoryRules_Attunables
 
+# Note! This addon has been moved into the main [ArkInventory_Attune repository](https://github.com/imevul/ArkInventory_Attune) and will no longer be updated.
+
 Adds useful rule functions for ArkInventory for handling attunable items:
 - `attunable()`
 - `attuned()`
